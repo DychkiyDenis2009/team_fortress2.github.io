@@ -1,0 +1,39 @@
+header, footer {
+  background-color: #ad7e34;
+  padding: 16px;
+}
+
+main {
+  padding: 10px;
+  background-color: silver;
+}
+
+.post {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.carousele{
+margin: 10px;
+}
+.carousele div img{
+width: 50%
+}
+
+.post img {file:///C:/Users/Admin/Pictures/103gafp6t3a81.jpg
+  margin: 20px;
+}
+.post img {
+  
+}
+.footer-columns {
+  display: flex;
+}
+
+.footer-column {
+flex: : 90%;
+  margin: 20px;
+}
